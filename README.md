@@ -98,3 +98,7 @@ The default NGINX page should display **Welcome to nginx!**.
 ## Notes
 
 This repository documents the infrastructure and commands used for the Google Cloud Skills Boost ARC120 challenge lab. Temporary lab credentials, SSH private keys, passwords, and other secrets must not be committed to this repository.
+
+## Additional lab write-up
+
+- [GSP301 — Deploy a Compute Instance with a Remote Startup Script](labs/GSP301-remote-startup-script/README.md)
